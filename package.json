@@ -1,0 +1,12 @@
+{
+  "name": "spypa",
+  "version": "1.0.0",
+  "description": "Telegram bot remote executor",
+  "main": "spypa.js",
+  "scripts": {
+    "start": "node spypa.js"
+  },
+  "author": "your-name",
+  "license": "MIT",
+  "dependencies": {}
+}
